@@ -67,5 +67,7 @@
     visibility: hidden;
   }
   
-  
+  a.menu-icon {
+    display: inline-block;
+  }
 }
