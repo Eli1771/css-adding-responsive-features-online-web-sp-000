@@ -71,5 +71,7 @@
     display: inline-block;
   }
   
-  
+  #logo h2 {
+    visibility: hidden;
+  }
 }
